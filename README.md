@@ -39,7 +39,7 @@ GenAI-Gallery
 │
 ├── client/                  # React frontend (Vite + Tailwind)
 │   ├── src/
-│   │   ├── components/      # NavBar, SearchBar, ImageCard, .
+│   │   ├── components/      # NavBar, SearchBar, ImageCard.
 │   │   ├── pages/           # HomePage, CreatePost, NotFound
 │   │   ├── App.jsx
 │   │   └── index.css

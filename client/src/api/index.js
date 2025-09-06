@@ -3,7 +3,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:8080/api",
+  baseURL: "https://genai-image-gallery.onrender.com/api",
 });
 
 // Get all posts

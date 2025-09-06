@@ -13,6 +13,13 @@ and **ClipDrop API** + **Cloudinary** for AI image generation & storage.
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **[View GenAI Gallery](https://genaigallery.netlify.app/)** – Deployed frontend on **Netlify**, backend on **Render**.  
+
+---
+
+
 ## ✨ Features
 
 - 🖼 Generate AI images from custom prompts using **ClipDrop API**  

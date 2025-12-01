@@ -11,6 +11,8 @@ A **MERN-stack AI-powered image generation platform** where users can **create, 
 Built with **React (Vite)** for the frontend, **Node.js/Express** for the backend, **MongoDB** for the database,  
 and **ClipDrop API** + **Cloudinary** for AI image generation & storage.  
 
+GenAIGallery is a full-stack MERN application that allows users to generate, explore, and Download AI-generated images. The platform integrates the ClipDrop API for real-time AI image generation and uses Cloudinary for efficient, high-quality image storage and delivery. The frontend is built using React (Vite) and TailwindCSS, offering a responsive and visually appealing image gallery with features such as post creation, user profiles, and interactive notifications. The backend is designed using Node.js and Express, with secure environment configuration, modular routing, and RESTful APIs for scalable and maintainable architecture. The project is deployed with Netlify (frontend) and Render (backend) to ensure smooth performance in production.
+
 ---
 
 ## 🚀 Live Demo
